@@ -5,6 +5,8 @@ date:   2019-11-17 14:49:51 -0600
 categories: jekyll update
 ---
 
+![hunters ed certificate](/assets/hunters-ed.jpg){:class="img-responsive"}
+
 I made the decision to try out hunting while spending Christmas in Ontario. A few years prior I moved to a major city, and the itch to get outdoors had become undeniable.
 
 Learning to hunt without a mentor or experience can be intimidating. Don't let that discourage you! Just know that it will take some patience and regular effort.
@@ -30,8 +32,6 @@ There was also a visit from a CPO, or game warden, to cover rules and regulation
 For those unfamiliar with firearms, the instructors brought a shotgun and rifle with the firing pins removed so people could practice handling and loading them.
 
 At the end of the two days, you get a hunter's safety card with an ID number. **Put this somewhere safe**. You'll need it when you later apply for your license.
-
-![hunters ed certificate](/assets/hunters-ed.jpg){:class="img-responsive"}
 
 At this point you should be well on your way! While the focus of the course is safety, you'll likely leave hunter's ed with a fair bit of information beyond that.
 That's it for this time - next up we'll discuss getting ready for your season.
